@@ -5,9 +5,12 @@
 ## Papers
 
 ### Distributed Systems
+### Virtualization
 ### Realtime
 ### Library OS
 ### Classics / Seminal Papers
+1. [Event](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf) vs. [Thread](https://www.cc.gatech.edu/classes/AY2009/cs4210_fall/papers/threads-hotos-2003.pdf)
+2. [VMM](https://www.usenix.org/legacy/event/hotos05/final_papers/full_papers/hand/hand.pdf) vs [Microkernel](https://os.itec.kit.edu/downloads/publ_2005_heiser-ua_vm-monitors-microkernels.pdf)
 ### Microkernels
 ### Scheduling
 ### File Systems
