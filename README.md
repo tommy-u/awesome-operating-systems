@@ -3,7 +3,30 @@
 This is a first attempt at curating a list of awesome OS papers and resources. Got a paper to add? Got a better way to organize? Comment or pull request!
 
 ## Table of Contents
-
+- [Papers](#papers)
+  - [Scalable Systems](#scalable-systems)
+  - [Parallelism](#parallelism)
+  - [Distributed Systems](#distributed-systems)
+  - [Virtualization](#virtualization)
+  - [Realtime](#realtime)
+  - [Verification](#verification)
+  - [Storage](#storage)
+  - [Library OS](#library-os)
+  - [Monitoring / Debugging](#monitoring-/-debugging)
+  - [Dynamically Reconfigurable / Adaptive](#dynamically-reconfigurable-/-adaptive)
+  - [Classics / Seminal Papers](#classics-/-seminal-papers)
+  - [I/O](#i/o)
+  - [*Kernels](#*Kernels)
+  - [Transactions (is this the right label?)](#Transactions (is this the right label?))
+  - [Scheduling](#scheduling)
+  - [Secure systms](#secure-systms)
+  - [Theory](#theory)
+  - [Big Stuff](#big-stuff)
+  - [File Systems](#file-systems)
+  - [Surveys](#surveys)
+- [Blogs](#blogs)
+- [Tools](#tools)
+- [Research Groups](#research-groups)
 
 ## Papers
 ### Scalable Systems
