@@ -1,6 +1,6 @@
 # Awesome Operating Systems [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a first attempt at curating a list of awesome OS papers and resources. Got a paper to add? Got a better way to organize? Comment or pull request!
+This is a first attempt at curating a list of awesome OS papers and resources. Got a paper to add? Got a better way to organize? Comment or pull request! [Contribution Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
 ## Table of Contents
 - [Papers](#papers)
