@@ -35,8 +35,9 @@ This is a first attempt at curating a list of awesome OS papers and resources. G
   * [Hotos Barrelfish](http://www.barrelfish.org/publications/barrelfish_hotos09.pdf) - Stub description.
   * [SOSP Barrelfish](http://www.barrelfish.org/publications/barrelfish_sosp09.pdf) - Stub description.
 * [Tornado](https://www.usenix.org/legacy/events/osdi99/full_papers/gamsa/gamsa.pdf) - Stub description.
-* Corey
+* [Corey: An Operating System for Many Cores](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/boyd-wickizer/boyd-wickizer_html/index~.html)  - Stub description.
 * [Disco](http://pages.cs.wisc.edu/~remzi/Classes/838/Spring2013/Papers/bugnion97disco.pdf) - Stub description.
+* [Project Kittyhawk: Building a Global-Scale Computer](http://people.seas.harvard.edu/~apw/papers/Appavoo08.pdf) - Stub description.
 
 ### Parallelism
 * [Efficient system-enforced deterministic parallelism](http://dl.acm.org/citation.cfm?id=2160742) - Stub description.
@@ -82,6 +83,9 @@ for Runtime Emergent Software Systems](https://www.usenix.org/system/files/confe
 
 ### *Kernels
 * [Exokernels](https://pdos.csail.mit.edu/6.828/2011/readings/engler95exokernel.pdf) - Stub description.
+* [Improving PIC by Kernel Design](https://www.cs.nyu.edu/~mwalfish/classes/15fa/ref/liedtke93improving.pdf) - Stub description.
+* [On Micro-Kernel Construction](http://read.seas.harvard.edu/cs261/papers/liedtke95on.pdf) - Stub description.
+* [The Performance of Micro-Kernel-Based Systems](https://cseweb.ucsd.edu/classes/fa01/cse221/papers/haertig-ukernel-perf-sosp97.pdf) - Stub description.
 
 ### Transactions (is this the right label?)
 * [User IPC](https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/papers/p175-bershad.pdf) - Stub description.
