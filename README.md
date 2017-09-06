@@ -38,6 +38,7 @@ This is a first attempt at curating a list of awesome OS papers and resources. G
 * [Corey: An Operating System for Many Cores](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/boyd-wickizer/boyd-wickizer_html/index~.html)  - Stub description.
 * [Disco](http://pages.cs.wisc.edu/~remzi/Classes/838/Spring2013/Papers/bugnion97disco.pdf) - Stub description.
 * [Project Kittyhawk: Building a Global-Scale Computer](http://people.seas.harvard.edu/~apw/papers/Appavoo08.pdf) - Stub description.
+* [EbbRT](https://www.usenix.org/system/files/conference/osdi16/osdi16-schatzberg.pdf) - Stub description.
 
 ### Parallelism
 * [Efficient system-enforced deterministic parallelism](http://dl.acm.org/citation.cfm?id=2160742) - Stub description.
