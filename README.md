@@ -118,3 +118,4 @@ for Runtime Emergent Software Systems](https://www.usenix.org/system/files/confe
 
 # Attribution
 * https://github.com/papers-we-love/papers-we-love/tree/master/operating_systems
+* http://www.eecs.harvard.edu/~margo/cs261/notes/
