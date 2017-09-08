@@ -105,6 +105,46 @@ for Runtime Emergent Software Systems](https://www.usenix.org/system/files/confe
 ### File Systems
 * [The Google File System](http://sgotiweb.epn.edu.ec/~emafla/Cursos/CD/docs/gfs-sosp2003.pdf) - Stub description.
 
+### TO BE LINKED / SORTED
+* [Corbató: An Experimental Time-Sharing System]() - Stub description.
+* [Dijkstra: The Structure of the "THE" Multiprogramming System]() - Stub description.
+* [Kilburn: One Level Storage System]() - Stub description.
+* [Daley: Virtual Memory, Processes, and Sharing in MULTICS]() - Stub description.
+* [Bensoussan: The Multics Virtual Memory System: Concepts and Design]() - Stub description.
+* [Rashid: From RIG to Accent to Mach: The Evolution of a Network Operating System]() - Stub description.
+* [Leidtke: On micro-kernel Construction]() - Stub description.
+* [Baumann: The Multikernel: A New OS Architecture for Scalable Multicore Systems]() - Stub description.
+* [Meyer: A virtal machine time-sharing system]() - Stub description.
+* [Bugnion: Disco: running commodity operating systems on scalable multiprocessors]() - Stub description.
+* [Microkernels Meet Recursive Virtual Machines]() - Stub description.
+* [Waldspurger: Memory Resource Management in VMware ESX Server]() - Stub description.
+* [Reimplementing the Cedar File System Using Logging and Group Commit]() - Stub description.
+* [Rosenblum: The Design and Implementation of a Log-Structured File System]() - Stub description.
+* [Sandberg: Design and Implementation of the Sun Network Filesystem]() - Stub description.
+* [Howard: Scale and Performance in a Distributed File System]() - Stub description.
+* [Min: SFS: Random Write Considered Harmful in Solid State Drives]() - Stub description.
+* [Rumble: Log-structured Memory for DRAM-based Storage]() - Stub description.
+* [Schroeder: Experience with Grapevine: The Growth of a Distributed System]() - Stub description.
+* [Anderson: Serverless Network File Systems]() - Stub description.
+* [Stoica: Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications]() - Stub description.
+* [Rowstrom: Storage management and caching in PAST]() - Stub description.
+* [Ghemewat: The Google File System]() - Stub description.
+* [Mickens: Blizzard: Fast, Cloud-scale Block Storage for Cloud-oblivious Applications]() - Stub description.
+* [Dean: MapReduce: Simplified Data Processing on Large Clusters]() - Stub description.
+* [Baumann: Shielding Applications from an Untrusted Cloud with Haven]() - Stub description.
+* [Herlihy: Transactional Memory: Architectural Support for Lock-Free Data Structure]() - Stub description.
+* [Damron: Hybrid Transactional Memory]() - Stub description.
+* [Clements: The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors]() - Stub description.
+* [Mateev: Matveev: Read-Log-Update: A Lightweight Synchronization Mechanism for Concurrent Programming]() - Stub description.
+* [A Study of Modern Linux API Usage and Compatibility: What to Support When You're Supporting]() - Stub description.
+* [The Linux Scheduler: a Decade of Wasted Cores]() - Stub description.
+* [Rinard: Enhancing Server Availability and Security Through Failure-Oblivious Computing]() - Stub description.
+* [Qin: Rx: Treating Bugs as Software Allergies -- A Safe way to Survive Software Failures]() - Stub description.
+* [Engler: Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code]() - Stub description.
+* [Wang: Towards Optimization-Safe Systems: Analyzing the Impact of Undefined Behavior]() - Stub description.
+* [Zeldovich: Making Information Flow Explicit in HiStar]() - Stub description.
+* [Tice: Enforcing Forward-Edge Control-Flow Integrity in GCC and LLVM]() - Stub description.
+
 ### Surveys
 
 ## Blogs
